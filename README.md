@@ -211,6 +211,9 @@ This repository welcomes contributions. Help by:
 4. Test URLs for **accessibility**
 5. Follow the **category structure**
 
+### Main Project
+- Join [OSINT for Countries v2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0/blob/main/README.md)
+
 ---
 
 ## Related Resources
@@ -218,3 +221,4 @@ This repository welcomes contributions. Help by:
 - **[Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit)**
 - **[Digital Profiler's Toolkit](https://github.com/OSINT-mindset/digital-profiler-toolkit)**
 - **[OpenSanctions](https://opensanctions.org)** — includes Swiss SECO sanctions lists
+- **[OSINT for Countries v2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0/blob/main/README.md)**
