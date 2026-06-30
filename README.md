@@ -1,6 +1,6 @@
 # OSINT Tools Switzerland
 
-<img src="https://en.wikipedia.org/wiki/Flag_of_Switzerland#/media/File:Civil_Ensign_of_Switzerland_(Pantone).svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg"/>
 
 A comprehensive collection of Open Source Intelligence (OSINT) resources for investigating Swiss entities, individuals, and public information. This repository follows the OSINT-for-Countries-V2.0 framework.
 
