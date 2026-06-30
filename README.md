@@ -125,7 +125,7 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 
 - **[MedReg — Register of Medical Professions](https://healthreg-public.admin.ch)**: Official federal register (FOPH/BAG) covering all physicians, dentists, pharmacists, veterinarians, chiropractors, and midwives practising in Switzerland. Mandatory registration since 1 January 2018. Includes PsyReg (psychologists) and BetReg (establishments).
 - **[FMH Doctor Registry](https://doctorfmh.ch/en/)**: FMH membership directory of Swiss doctors (reflects FMH association members; for the authoritative legal register, use MedReg above)
-- **[Psychologist Registry](https://www.psychologie.ch/psychologensuche)**: Licensed psychologists in Switzerland
+- **[Psychologist Registry](https://healthreg-public.admin.ch/psyreg/search)**: Licensed psychologists in Switzerland
 - **[Federal Administration Directory (Staatskalender)](https://www.staatskalender.admin.ch/home)**: Directory of Swiss federal government employees, authorities, and institutions
 
 ### Phone & Contact Directories
