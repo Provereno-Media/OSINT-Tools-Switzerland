@@ -113,7 +113,7 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 ### Maritime & Railways
 
 - **[National Vehicle Register (Railways)](https://www.rollingstockregister.ch)**: Railway vehicle registration
-- **Ship Registration**: Pleasure craft and commercial vessels are registered through the federal **Swiss Maritime Navigation Office (SMNO)** and, for inland watercraft, through cantonal authorities. Access requirements vary — contact the relevant authority directly.
+- **Ship Registration**: Pleasure craft and commercial vessels are registered through the federal **[Swiss Maritime Navigation Office](https://www.schweizerischesseeschifffahrtsamt.eda.admin.ch/en/swiss-maritime-navigation-office) (SMNO)** and, for inland watercraft, through cantonal authorities. Access requirements vary — contact the relevant authority directly.
 
 ---
 
