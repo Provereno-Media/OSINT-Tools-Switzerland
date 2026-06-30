@@ -100,38 +100,11 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 
 ### Land Vehicles — License Plate Databases
 
-#### Free Access Cantons
+#### Easy Way
+- [Swiss Plates Autoindex Chrome Extension](https://play.google.com/store/apps/details?id=ch.tasoulesplaques)
 
-- **Aargau (AG)**: Auto-Index web portal — no verification required
-- **Fribourg (FR)**: Auto-Index web portal — no verification required
-- **Lucerne (LU)**: Auto-Index web portal — no verification required
-- **Nidwalden (NW)**: Auto-Index web portal — no verification required
-- **Obwalden (OW)**: Auto-Index web portal — no verification required
-- **Schaffhausen (SH)**: Auto-Index web portal — no verification required
-- **Ticino (TI)**: Auto-Index web portal — no verification required
-- **Valais (VS)**: Auto-Index web portal — no verification required
-- **Zug (ZG)**: Auto-Index web portal — no verification required
-- **Zurich (ZH)**: Auto-Index web portal — no verification required
-
-#### SMS/Email Verification Required (CHF 1/search)
-
-- **Appenzell Inner/Outer (AI/AR)**: eAutoindex SMS/Email service
-- **Bern (BE)**: eAutoindex SMS/Email service
-- **Basel-Land/Basel-Stadt (BL/BS)**: eAutoindex SMS/Email service
-- **Glarus (GL)**: eAutoindex SMS/Email service
-- **Graubünden (GR)**: eAutoindex SMS/Email service
-- **St. Gallen (SG)**: eAutoindex SMS/Email service
-- **Solothurn (SO)**: eAutoindex SMS/Email service
-- **Schwyz (SZ)**: eAutoindex SMS/Email service
-- **Thurgau (TG)**: eAutoindex SMS/Email service
-- **Uri (UR)**: eAutoindex SMS/Email service
-
-#### Official Request Required (CHF 10–20)
-
-- **Geneva (GE)**: Justification required for access
-- **Jura (JU)**: Justification required for access
-- **Neuchâtel (NE)**: Justification required for access
-- **Vaud (VD)**: Justification required for access
+#### Registers
+- [e-Autoindex](https://www.eautoindex.ch/)
 
 ### Aviation
 
