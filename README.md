@@ -156,7 +156,7 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 **Domain registration and DNS information for Swiss (.ch) and Liechtenstein (.li) domains.**
 
 - **[Switch Registry](https://www.switch.ch)**: Official .ch and .li domain registry
-- **[RDDS (WHOIS) Service](https://www.switch.ch/whois/)**: Domain registration data (personal info restricted since January 2021 due to privacy regulations)
+- **[Nic CH](https://www.nic.ch/whois/)**: Domain registration data (personal info restricted since January 2021 due to privacy regulations)
 - **[Federal Office of Communications](https://www.bakom.admin.ch/en/ch-internet-domain-names)**: .ch internet domain policy and regulations
 
 > **Note**: Personal information of .ch domain holders is no longer publicly accessible via WHOIS since January 2021 due to Swiss data protection regulations.
