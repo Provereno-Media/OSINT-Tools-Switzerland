@@ -4,7 +4,7 @@
 
 A comprehensive collection of Open Source Intelligence (OSINT) resources for investigating Swiss entities, individuals, and public information. This repository follows the OSINT-for-Countries-V2.0 framework.
 
-**Last Updated**: June, 2026
+**Last Updated**: July, 2026
 
 > **Note**: Some 403 errors may be due to geo-blocking, bot detection, or requiring Swiss IP addresses. Connection errors may be temporary and should be retried.
 
@@ -57,6 +57,7 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 ### Stock
 
 - **[SIX Swiss Exchange](https://www.six-group.com/en/products-services/the-swiss-stock-exchange.html)**: Official Swiss stock exchange
+- **[SIX Regulatory Reporting — Disclosed Shareholdings](https://www.six-group.com/en/products-services/financial-information/regulatory-reporting.html)**: Disclosed shareholdings above the 3% threshold in listed Swiss companies
 
 ---
 
@@ -68,16 +69,35 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 
 - **[ZEFIX](https://www.zefix.ch)**: Central Business Names Index — aggregates data from all 26 Swiss cantonal commercial registers
 - **[Swiss Official Gazette of Commerce (SHAB)](https://shab.ch/)**: Commercial register changes, bankruptcy notices, litigation
+- **[UID Register](https://www.uid.admin.ch/)**: Swiss Business Identification Number (UID) registry — complements ZEFIX with tax/VAT identifiers
+- **[EHRA — Eidgenössisches Handelsregisteramt](https://www.e-hr.ch/)**: Federal commercial registry office with direct officer/director search across cantons
+
 
 ### Commercial Databases
 
 - **[Moneyhouse](https://www.moneyhouse.ch)**: Business information, credit reports, company monitoring | Freemium
 - **[OpenCorporates — Switzerland](https://opencorporates.com/companies/ch)**: International open database of Swiss companies (1M+ entries)
 
+### Foundations & NGOs
+
+- **[SwissFoundations](https://www.swissfoundations.ch/)**: Association and directory of major Swiss philanthropic foundations
+- **[Federal Foundation Supervisory Authority (EDI)](https://www.edi.admin.ch/)**: Federal oversight body for foundations, searchable by canton
+
 ### Other
 
 - **[SwissReg](https://www.swissreg.ch)**: Intellectual property database (trademarks, patents, designs)
 - **[Money in Politics](https://moneyinpolitics.ch)**: Political financing data
+
+**Beneficial ownership, anti-money laundering, and sanctions screening resources.**
+
+> **New in 2026**: Switzerland is introducing a federal register of beneficial owners (UBO) as part of its AML reform package.
+
+- **[Federal UBO Register](https://www.skandamis.com/news/switzerland-s-federal-register-of-beneficial-owners/)**: Overview of Switzerland's new federal beneficial ownership register
+- **[SECO Sanctions List](https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos.html)**: Swiss State Secretariat for Economic Affairs — Swiss-specific sanctions and embargo lists
+- **[OpenSanctions](https://opensanctions.org/)**: Aggregates global sanctions/PEP data, including Swiss SECO lists
+- **[OCCRP Aleph](https://aleph.occrp.org/)**: Cross-border investigative database aggregating leaked records, company filings, and Swiss-linked entities | Free/Registration
+- **[FINMA](https://www.finma.ch/en/)**: Swiss Financial Market Supervisory Authority — enforcement actions, licensed entities, warning lists, insolvencies
+- **[MROS Annual Reports (Money Laundering Reporting Office)](https://www.fedpol.admin.ch/fedpol/en/home/kriminalitaet/geldwaescherei.html)**: Suspicious transaction statistics by sector and canton
 
 ---
 
