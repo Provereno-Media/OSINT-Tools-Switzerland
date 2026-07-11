@@ -196,15 +196,6 @@ A comprehensive collection of Open Source Intelligence (OSINT) resources for inv
 
 ---
 
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 2.1 | June 2026 | Added MedReg as primary medical registry; added OpenCorporates Switzerland; corrected ship registration description; clarified SIMAP thresholds; fixed Swiss Yellow Pages link; added OSINT Industries; corrected DODIS date description; removed unverified dataset counts |
-| 2.0 | December 2025 | Initial public release |
-
----
-
 ## Reporting Issues
 
 Found a broken link or access issue? Please:
